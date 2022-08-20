@@ -1,0 +1,15 @@
+/.idea/
+.settings/
+/.project
+/gestaodeensino.iml
+main*.iml
+/target/
+/.scannerwork/
+.scannerwork
+RemoteSystemsTempFiles/
+ead-gestao-backend.iml
+gestaodeensino-integration/.factorypath
+gestaodeensino-persistence/.factorypath
+gestaodeensino-rest/.factorypath
+gestaodeensino-service/.factorypath
+/.scannerwork/
