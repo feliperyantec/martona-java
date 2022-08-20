@@ -1,4 +1,4 @@
-package com.oladevedojo;
+package com.oladevedojo.introducao;
 
 public class OlaDevDojo {
     public static void main(String[] args) {
