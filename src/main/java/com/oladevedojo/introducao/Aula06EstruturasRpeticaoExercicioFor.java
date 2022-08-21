@@ -1,6 +1,6 @@
 package com.oladevedojo.introducao;
 
-public class Aula08EstruturasRpeticaoExercicioFor {
+public class Aula06EstruturasRpeticaoExercicioFor {
     public static void main(String[] args) {
         // imprima todos os números pares de 0 até 1000000
 
