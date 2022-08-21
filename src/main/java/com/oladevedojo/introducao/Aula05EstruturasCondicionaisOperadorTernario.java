@@ -1,6 +1,6 @@
 package com.oladevedojo.introducao;
 
-public class Aula05EstruturasCondicionaisoperadorTernario {
+public class Aula05EstruturasCondicionaisOperadorTernario {
     public static void main(String[] args) {
         // Doar se salario > 5000
 
