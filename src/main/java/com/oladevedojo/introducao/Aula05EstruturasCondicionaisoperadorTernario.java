@@ -17,6 +17,6 @@ public class Aula05EstruturasCondicionaisoperadorTernario {
 
         // outro metodo
         // String resultado = (condicao) ? verdadeiro : falso;
-        String resultado = salario > 5000 ? mensagemDoar : mensagemNaoDoar;
+        //String resultado = salario > 5000 ? mensagemDoar : mensagemNaoDoar;
     }
 }
