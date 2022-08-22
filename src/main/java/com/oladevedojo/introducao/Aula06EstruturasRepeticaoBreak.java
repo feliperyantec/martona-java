@@ -1,6 +1,6 @@
 package com.oladevedojo.introducao;
 
-public class Aula08EstruturasRepeticaoBreak {
+public class Aula06EstruturasRepeticaoBreak {
     public static void main(String[] args) {
         // imprima os primeiros 25 numeros de um dado valor. por exemplo, 50.
 
