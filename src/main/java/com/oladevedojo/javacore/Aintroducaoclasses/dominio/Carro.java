@@ -1,8 +1,8 @@
 package com.oladevedojo.javacore.Aintroducaoclasses.dominio;
 
-public class Professor {
+public class Carro {
 
     public String nome;
-    public int idade;
-    public char sexo;
+    public String modelo;
+    public int ano;
 }
