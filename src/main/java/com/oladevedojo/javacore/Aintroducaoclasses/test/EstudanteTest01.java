@@ -1,9 +1,6 @@
-package com.oladevedojo.javacore.introducaoclasses.test;
+package com.oladevedojo.javacore.Aintroducaoclasses.test;
 
-import com.oladevedojo.javacore.introducaoclasses.dominio.Estudante;
-import org.w3c.dom.ls.LSOutput;
-
-import javax.sound.midi.Soundbank;
+import com.oladevedojo.javacore.Aintroducaoclasses.dominio.Estudante;
 
 public class EstudanteTest01 {
     public static void main(String[] args) {
@@ -15,5 +12,6 @@ public class EstudanteTest01 {
         System.out.println(estudante.nome);
         System.out.println(estudante.idade);
         System.out.println(estudante.sexo);
+        System.out.println(estudante);
     }
 }
