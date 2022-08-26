@@ -7,5 +7,8 @@ public class RetornoTest02 {
         Retorno02 retorno02 = new Retorno02();
         double resultado = retorno02.divideDoisNumeros2(10, 0);
         System.out.println(resultado);
+        System.out.println(retorno02.divideDoisNumeros2(20, 0));
+        System.out.println("----------------------");
+        retorno02.imprimeDivisaoDeDoisNumeros(86, 0);
     }
 }
