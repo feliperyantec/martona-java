@@ -1,10 +1,10 @@
 package com.oladevedojo.javacore.Isobrescrita.dominio;
 
-public class Anime extends Object {
+public class Anime {
     private String nome;
 
     @Override
-    public String  toString() {
+    public String toString() {
         return "Anime{" +
                 "nome='" + nome + '\'' +
                 '}';
