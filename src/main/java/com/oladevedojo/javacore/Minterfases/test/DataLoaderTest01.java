@@ -1,5 +1,6 @@
 package com.oladevedojo.javacore.Minterfases.test;
 
+import com.oladevedojo.javacore.Minterfases.dominio.DataLoader;
 import com.oladevedojo.javacore.Minterfases.dominio.DatabaseLoader;
 import com.oladevedojo.javacore.Minterfases.dominio.FileLoader;
 
@@ -15,5 +16,8 @@ public class DataLoaderTest01 {
 
         databaseLoader.checkPermission();
         fileLoader.checkPermission();
+
+        DataLoader.retrieveMaxDataSize();
+        DatabaseLoader.retrieveMaxDataSize();
     }
 }
