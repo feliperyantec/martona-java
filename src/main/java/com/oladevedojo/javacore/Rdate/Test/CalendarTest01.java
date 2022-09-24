@@ -19,8 +19,6 @@ public class CalendarTest01 {
         calendar.add(Calendar.DAY_OF_MONTH, 2);
         calendar.add(Calendar.HOUR, 12);
 
-
-
         Date date = calendar.getTime();
         System.out.println(date);
     }
