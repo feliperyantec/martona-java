@@ -20,6 +20,8 @@ public class PatternMatcherTest03 {
         // |
         //$
         // . 1.3 = 123, 133, 1@3, 1A3
+        // ^\w
+        // [^abc]
         String regex = "([a-zA-Z0-9\\._-])+@([a-zA-Z])+(\\.([a-zA-Z])+)+";
         String texto = "luffy@hotmail.com, 123jotaro@gmail.com, #@!zoro@mail.br, teste@gmail.com, sakura@mail";
         System.out.println("Email valido:");
