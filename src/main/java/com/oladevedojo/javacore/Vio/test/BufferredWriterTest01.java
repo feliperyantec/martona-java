@@ -12,11 +12,11 @@ public class BufferredWriterTest01 {
 
         try (FileWriter fw = new FileWriter(file, true);
 
-        BufferedWriter br = new BufferedWriter(fw)) {
+        BufferedWriter bw = new BufferedWriter(fw)) {
 
-            br.write("Aula 139\n");
-            br.newLine();
-            br.flush();
+            bw.write("Aula 139\n");
+            bw.newLine();
+            bw.flush();
         }catch (IOException e) {
             e.printStackTrace();
         }
