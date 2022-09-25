@@ -42,6 +42,5 @@ public class ZoneTest01 {
         LocalDate meijieraLocalDate = LocalDate.of(1900, 2, 1);
         JapaneseDate meijiEra = JapaneseDate.from(meijieraLocalDate);
         System.out.println(meijiEra);
-
     }
 }
