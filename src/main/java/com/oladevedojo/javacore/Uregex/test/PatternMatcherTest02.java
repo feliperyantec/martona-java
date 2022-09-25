@@ -12,7 +12,8 @@ public class PatternMatcherTest02 {
         // \w = a-z, A-Z, digitos _
         // \W = Tudo o que nao for incluso no \w
         // []
-        // String regex = "[a-zA-C]";
+        // ? zero ou uma
+        // 
         String regex = "0[xX][0-9a-fA-F]";
         String texto = "0 0x 0X 0x1255A 0X15";
         Pattern pattern = Pattern.compile(regex);
