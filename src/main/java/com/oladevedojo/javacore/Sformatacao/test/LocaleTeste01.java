@@ -1,4 +1,4 @@
-package com.oladevedojo.javacore.Rdate.Test;
+package com.oladevedojo.javacore.Sformatacao.test;
 
 import java.text.DateFormat;
 import java.util.Calendar;
